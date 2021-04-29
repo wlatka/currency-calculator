@@ -1,9 +1,9 @@
-# Wojciech Łatka - kalkulator walut
+# Wojciech Łatka - konwerter walut
 
 ![Moje zdjęcie](images/small.jpg)
 
-## Link do kalkulatora
+## Link do konwertera
 
 https://wlatka.github.io/currency-calculator/
 
-## Kalkulator przelicza EUR na inne waluty.
+## konwerter przelicza EUR na inne waluty.
