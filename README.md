@@ -1,9 +1,11 @@
-# Wojciech Łatka - konwerter walut
+# Wojciech Łatka - Currency calculator
 
 ![Moje zdjęcie](images/small.jpg)
 
-## Link do konwertera
+## Link to the converter
 
 https://wlatka.github.io/currency-calculator/
 
-## konwerter przelicza EUR na inne waluty.
+## Converter converts EUR to other currencies.
+
+## ES6
