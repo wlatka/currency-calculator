@@ -7,5 +7,3 @@
 https://wlatka.github.io/currency-calculator/
 
 ## Converter converts EUR to other currencies.
-
-## ES6
