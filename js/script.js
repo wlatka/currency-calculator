@@ -5,7 +5,7 @@
 
     const amountEuro = () => {
         const euroElement = document.querySelector(".js-euro");
-        const euro = +euroElement.value;
+        const euro = euroElement.value;
     };
 
     const resultText = (euro) => {
